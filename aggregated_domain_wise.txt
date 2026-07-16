@@ -1,0 +1,146 @@
+www.livemint.com##.taboola-readmore
+www.livemint.com##.ad-carousel-container
+www.livemint.com###subscribeNow
+www.livemint.com##.taboola
+www.livemint.com##.carouselAdWrapper
+
+www.hindustantimes.com##.inArticleAdCarouselWrapper
+www.hindustantimes.com##.ProgressBar_progress_container__7ym1x
+www.hindustantimes.com##.bottomMenu
+
+timesofindia.indiatimes.com###custom_ad_wrapper_0
+timesofindia.indiatimes.com##._zqap
+timesofindia.indiatimes.com##.Mr86Q.JgF3m
+timesofindia.indiatimes.com##.dPpSq.phShimmerFBN.fixed_elements_on_page
+timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-132109968\,width-150\,resizemode-4\/132109968\.jpg"]
+timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-131439182\,width-150\,resizemode-4\/131439182\.jpg"]
+timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-131903473\,width-150\,resizemode-4\/131903473\.jpg"]
+
+open.spotify.com##.e6jxYAtSk0iD8tAA.encore-inverted-dark-set
+open.spotify.com##.WW4l63FCd4v_1bfp
+open.spotify.com##.footer
+open.spotify.com##a.FByM6mgNkSMfGIqI.active:nth-of-type(3)
+open.spotify.com##a.FByM6mgNkSMfGIqI:nth-of-type(4)
+open.spotify.com##.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued.we0UJfWAf8vWXQku.tl_Te13p7oUOAd63.q8mQFn7r8UYsKdHE._H2ZzS_Atuwx6wh9.tMFkXbMSXNUegQIu.aIU4qABgiIgjAEyD.LUVEWqx9qW4kwbPr.C2vATbKl0MDEq09a.DSes_Z2f48QaZ1s0.eOI7g5Zd6esLuCCb.LJCjURMQBE6o9exj.EYdwwRebZIgjbKy_.j3SHhp1yEwUOoay8
+open.spotify.com##button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued.xfsjC59pFlEJ3yNI:nth-of-type(2)
+open.spotify.com##.B3B0XuueQy4Swpyw
+open.spotify.com##.jHqD4CkJSTwpZihD
+open.spotify.com##.C8qLX8lOHwAx63FP.bKWw7XkMnYJ6al1a
+open.spotify.com##.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued._EuXSrqTA94N1Evn.WWplj9LLqTE6whKO
+open.spotify.com##button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued._EuXSrqTA94N1Evn:nth-of-type(2)
+open.spotify.com##.uBpmNFia37U4nzmX.HV_r_uzYNE7ao30Y
+open.spotify.com##.AYUEkKOEqksuTXmh
+
+music.youtube.com##.app-install-link.app-bar-button.style-scope.ytmusic-nav-bar
+
+mail.google.com##.ObxnS
+
+music.apple.com##.cwc-upsell-banner
+music.apple.com##.navigation-item.navigation-item__home.svelte-1h5j892.navigation-item--selected > .navigation-item__link.svelte-1h5j892 > .navigation-item__content.svelte-b3imqj
+music.apple.com##.navigation-item.navigation-item__home.svelte-1h5j892.navigation-item--selected > .navigation-item__link.svelte-1h5j892
+music.apple.com##.navigation-item.navigation-item__home.svelte-1h5j892 > .navigation-item__link.svelte-1h5j892
+music.apple.com##.navigation-item.navigation-item__home.svelte-1h5j892
+music.apple.com##.native-cta__button.svelte-1r74jcm
+music.apple.com##.svelte-bqqhxp.footer--full-width
+
+www.google.com##.rK4Qmc
+www.google.com###Q7Ulpb
+www.google.com###qslc
+www.google.com##.ZvaH7
+www.google.com###fbar
+
+indianexpress.com##.ie-mobile-ad-carousel
+indianexpress.com##.share-article-btn
+
+www.ndtv.com##.ad-art_rw
+www.ndtv.com##div.ad-art_full2.ad-art_wap:nth-of-type(2) > .ad-art_rw
+www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(4)
+www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(5) > .ad-art_rw
+www.ndtv.com##.RdInAp_cn
+www.ndtv.com##.RdInAp_cls-wr
+www.ndtv.com##.ArtFtVid_wr
+
+m.youtube.com##.chip-bar-contents
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment
+m.youtube.com##.ytAttributedStringHost.chatInputViewModelChatDisclaimer.chatInputViewModelChatDisclaimerAboveInput.ytAttributedStringWhiteSpacePreWrap
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeM.ytSpecButtonShapeNextIconOnlyDefault.ytSpecButtonShapeNextEnableBackdropFilterExperiment
+m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
+m.youtube.com##.pivot-bar-item-tab.pivot-w2w
+m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
+m.youtube.com##ytm-compact-link-renderer.YtmCompactLinkRendererHost.item:nth-of-type(7) > .ytButtonOrAnchorHost.ytButtonOrAnchorAnchor.YtmCompactLinkRendererEndpoint
+m.youtube.com##.ytButtonOrAnchorHost.ytButtonOrAnchorButton.YtmCompactLinkRendererEndpoint
+m.youtube.com##ytm-compact-link-renderer.YtmCompactLinkRendererHost.item:nth-of-type(5) > .ytButtonOrAnchorHost.ytButtonOrAnchorAnchor.YtmCompactLinkRendererEndpoint
+m.youtube.com##ytm-compact-link-renderer.YtmCompactLinkRendererHost.item:nth-of-type(2) > .ytButtonOrAnchorHost.ytButtonOrAnchorAnchor.YtmCompactLinkRendererEndpoint
+m.youtube.com##.ytContentMetadataViewModelMetadataRow
+m.youtube.com##.ytCarouselTitleViewModelNavigation
+m.youtube.com##.engagement-panel-section-list-title-and-context-wrapper
+m.youtube.com##.ytProfileIconHost.YtmCommentSimpleboxRendererIcon > .ytProfileIconImage
+m.youtube.com##.ytProfileIconHost.YtmCommentSimpleboxRendererIcon
+m.youtube.com###bottom-sheet-header
+m.youtube.com##.mobile-topbar-header-endpoint
+m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse > .ytSpecTouchFeedbackShapeFill
+m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse > .ytSpecTouchFeedbackShapeStroke
+m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextSizeL.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextEnableBackdropFilterExperiment
+m.youtube.com##.expandableMetadataRendererContainerExpanded.expandableMetadataRendererColorSampledContainer
+m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSectionTitle
+m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSubHeaderText > .ytAttributedStringHost.ytAttributedStringWhiteSpacePreWrap
+m.youtube.com##.clickable-metadata
+m.youtube.com##.factoids
+m.youtube.com##.expandableMetadataRendererContainer.expandableMetadataRendererColorSampledContainer
+m.youtube.com##.horizontal-card-list-header.horizontal-card-list-header-bold
+m.youtube.com##.horizontal-card-list-cards
+m.youtube.com##.ytm-infocards-creator-custom-url-buttons
+m.youtube.com##ytm-video-description-infocards-section-renderer
+m.youtube.com##.ytShelfHeaderLayoutHost.ytShelfHeaderLayoutDisableHorizontalPadding
+m.youtube.com##.ytLinearLayoutViewModelContainer.ytLinearLayoutViewModelVertical > div:nth-of-type(2) > .ytListItemViewModelHost > .ytListItemViewModelLayoutWrapper.ytListItemViewModelContainer.ytListItemViewModelDisableHorizontalPadding
+m.youtube.com##.ytLinearLayoutViewModelContainer.ytLinearLayoutViewModelVertical > div:nth-of-type(3) > .ytListItemViewModelHost > .ytListItemViewModelLayoutWrapper.ytListItemViewModelContainer.ytListItemViewModelDisableHorizontalPadding > .ytListItemViewModelMainContainer
+m.youtube.com##.ytListItemViewModelLayoutWrapper.ytListItemViewModelContainer.ytListItemViewModelDisableHorizontalPadding.ytListItemViewModelNoTrailingText
+m.youtube.com##.ytmClosedCaptioningButtonButton
+m.youtube.com##.ytmClosedCaptioningButtonHost
+m.youtube.com##yt-list-item-view-model.ytListItemViewModelHost:nth-of-type(5) > .ytListItemViewModelLayoutWrapper.ytListItemViewModelContainer.ytListItemViewModelTappable.ytListItemViewModelNoTrailingText > .ytListItemViewModelMainContainer
+
+www.youtube.com###content-wrapper
+www.youtube.com##div.style-scope.ytd-rich-section-renderer
+
+mail.proton.me##.flex.flex-column.unstyled.my-0 > li:nth-of-type(3) > .flex.flex-nowrap.w-full.items-center.text-left.checkList-item.border-none.cursor-pointer.p-0.text-sm.color-norm.p-2.mb-0\.5 > .flex-1.px-2
+mail.proton.me##.flex.flex-column.unstyled.my-0 > li:nth-of-type(3) > .flex.flex-nowrap.w-full.items-center.text-left.checkList-item.border-none.cursor-pointer.p-0.text-sm.color-norm.p-2.mb-0\.5
+mail.proton.me##.flex.flex-column.unstyled.my-0 > li:nth-of-type(2) > .flex.flex-nowrap.w-full.items-center.text-left.checkList-item.border-none.cursor-pointer.p-0.text-sm.color-norm.p-2.mb-0\.5 > .flex-1.px-2.opacity-50.text-strike
+mail.proton.me##.flex.flex-column.unstyled.my-0 > li:nth-of-type(2) > .flex.flex-nowrap.w-full.items-center.text-left.checkList-item.border-none.cursor-pointer.p-0.text-sm.color-norm.p-2.mb-0\.5
+mail.proton.me##.flex.flex-column.unstyled.my-0 > li:nth-of-type(1) > .flex.flex-nowrap.w-full.items-center.text-left.checkList-item.border-none.cursor-pointer.p-0.text-sm.color-norm.p-2.mb-0\.5
+mail.proton.me##.mx-3.p-3.mt-1.mb-2.text-sm.bg-weak.color-weak.rounded
+mail.proton.me##.flex.flex-1.flex-nowrap.text-left.ml-0.navigation-link-header-group-link.navigation-link-header-group-link--force-min-block-size.items-start
+mail.proton.me##.flex.flex-nowrap.w-full.items-start
+mail.proton.me##.navigation-item.w-full.px-3.mb-0\.5.navigation-link-header-group.navigation-link-header-group--force-min-block-size.navigation-link-header-group--expandable
+mail.proton.me##.button.button-medium.button-outline-weak.button-for-icon.button-ghost-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.gap-2
+
+pass.proton.me##.button.button-medium.button-outline-weak.button-pill.button-solid-norm.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.flex-nowrap.shrink-0
+
+account.proton.me##.button.button-medium.button-outline-weak.button-for-icon.button-ghost-weak.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient
+
+www.forbes.com###connatix_player_0
+
+www.independent.co.uk##.sc-jdeof9-2.sc-jdeof9-4.sc-x21piv-1.sc-1ttpog8-1.grQWXt.hnktLg.kJHBHS.gNTQsn.sc-b3b1q1-0.sc-b3b1q1-1.bvDnsE
+www.independent.co.uk##.sc-toncsa-0.lfyduH
+www.independent.co.uk##div.sc-1f8ai7i-0.jhbBIe:nth-of-type(10) > .sc-1y9ieyw-0.FtcnY.mobile-only
+www.independent.co.uk##.sc-1styece-1.kgUdxt
+
+bengali.abplive.com##div.middle-ad-btf-wrapper
+
+chatgpt.com##.button-glimmer-cta.relative.flex.items-center.gap-1.rounded-full.bg-transparent.ps-2\.5.whitespace-nowrap.text-current.focus\:outline-none.pe-3.h-\[34px\].gap-\[3px\]\!.rounded-lg\!.border.border-transparent.border-solid.px-3\!.hover\:border-blue-400\/\[\.01\].hover\:bg-blue-400\/\[\.09\].hover\:backdrop-blur-\[38\.571px\].keyboard-focused\:border-blue-400\/\[\.01\].keyboard-focused\:bg-blue-400\/\[\.09\].keyboard-focused\:backdrop-blur-\[38\.571px\].dark\:hover\:bg-blue-100\/20.dark\:keyboard-focused\:bg-blue-100\/20
+chatgpt.com###radix-_r_41_
+chatgpt.com##.btn.border-token-interactive-border-secondary-default.bg-token-bg-primary.hover\:bg-token-interactive-bg-secondary-hover.h-8.w-full.gap-0.px-4.text-xs.font-medium
+chatgpt.com##.mb-2.flex.flex-col.gap-3\.5.pt-2
+
+copilot.microsoft.com##.flex.h-10.w-full.items-center.gap-3.rounded-xl.pe-2.ps-3
+copilot.microsoft.com##.relative.flex.items-center.text-foreground-800.fill-foreground-800.active\:text-foreground-600.active\:fill-foreground-600.dark\:active\:text-foreground-650.dark\:active\:fill-foreground-650.bg-transparent.safe-hover\:bg-black\/5.active\:bg-black\/3.dark\:safe-hover\:bg-white\/8.dark\:active\:bg-white\/5.text-sm.justify-start.min-h-10.min-w-10.gap-x-2.after\:rounded-xl.after\:absolute.after\:inset-0.after\:pointer-events-none.after\:border.after\:border-transparent.after\:contrast-more\:border-2.outline-2.outline-offset-1.focus-visible\:z-\[1\].focus-visible\:outline.focus-visible\:outline-stroke-900.forced-colors\:transition-none.forced-colors\:safe-hover\:\!bg-\[Highlight\].forced-colors\:safe-hover\:\!text-\[HighlightText\].forced-colors\:safe-hover\:\!fill-\[HighlightText\].forced-colors\:active\:\!bg-\[Highlight\].forced-colors\:active\:\!text-\[HighlightText\].forced-colors\:active\:\!fill-\[HighlightText\].w-full.rounded-xl.p-0
+copilot.microsoft.com##button.relative.flex.items-center.text-foreground-800.fill-foreground-800.active\:text-foreground-600.active\:fill-foreground-600.dark\:active\:text-foreground-650.dark\:active\:fill-foreground-650.bg-transparent.safe-hover\:bg-black\/5.active\:bg-black\/3.dark\:safe-hover\:bg-white\/8.dark\:active\:bg-white\/5.text-sm.justify-start.min-h-10.rounded-xl.after\:rounded-xl.after\:absolute.after\:inset-0.after\:pointer-events-none.after\:border.after\:border-transparent.after\:contrast-more\:border-2.outline-2.outline-offset-1.focus-visible\:z-\[1\].focus-visible\:outline.focus-visible\:outline-stroke-900.forced-colors\:transition-none.forced-colors\:safe-hover\:\!bg-\[Highlight\].forced-colors\:safe-hover\:\!text-\[HighlightText\].forced-colors\:safe-hover\:\!fill-\[HighlightText\].forced-colors\:active\:\!bg-\[Highlight\].forced-colors\:active\:\!text-\[HighlightText\].forced-colors\:active\:\!fill-\[HighlightText\].min-w-\[230px\].gap-3.px-3.py-2:nth-of-type(3)
+copilot.microsoft.com##button.relative.flex.items-center.text-foreground-800.fill-foreground-800.active\:text-foreground-600.active\:fill-foreground-600.dark\:active\:text-foreground-650.dark\:active\:fill-foreground-650.bg-transparent.safe-hover\:bg-black\/5.active\:bg-black\/3.dark\:safe-hover\:bg-white\/8.dark\:active\:bg-white\/5.text-sm.justify-start.min-h-10.rounded-xl.after\:rounded-xl.after\:absolute.after\:inset-0.after\:pointer-events-none.after\:border.after\:border-transparent.after\:contrast-more\:border-2.outline-2.outline-offset-1.focus-visible\:z-\[1\].focus-visible\:outline.focus-visible\:outline-stroke-900.forced-colors\:transition-none.forced-colors\:safe-hover\:\!bg-\[Highlight\].forced-colors\:safe-hover\:\!text-\[HighlightText\].forced-colors\:safe-hover\:\!fill-\[HighlightText\].forced-colors\:active\:\!bg-\[Highlight\].forced-colors\:active\:\!text-\[HighlightText\].forced-colors\:active\:\!fill-\[HighlightText\].min-w-\[230px\].gap-3.px-3.py-2:nth-of-type(4)
+copilot.microsoft.com##div.border-t-\[1px\].mx-2.border-black\/10.dark\:border-white\/10.my-1\.5:nth-of-type(2)
