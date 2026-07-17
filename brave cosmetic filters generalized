@@ -2,6 +2,7 @@ account.proton.me##.button.button-medium.button-outline-weak.button-for-icon.but
 
 bengali.abplive.com##div.middle-ad-btf-wrapper
 
+chatgpt.com###radix-_R_257nelpakoac97l35_
 chatgpt.com###radix-_r_41_
 chatgpt.com##.btn.border-token-interactive-border-secondary-default.bg-token-bg-primary.hover\:bg-token-interactive-bg-secondary-hover.h-8.w-full.gap-0.px-4.text-xs.font-medium
 chatgpt.com##.button-glimmer-cta.relative.flex.items-center.gap-1.rounded-full.bg-transparent.ps-2\.5.whitespace-nowrap.text-current.focus\:outline-none.pe-3.h-\[34px\].gap-\[3px\]\!.rounded-lg\!.border.border-transparent.border-solid.px-3\!.hover\:border-blue-400\/\[\.01\].hover\:bg-blue-400\/\[\.09\].hover\:backdrop-blur-\[38\.571px\].keyboard-focused\:border-blue-400\/\[\.01\].keyboard-focused\:bg-blue-400\/\[\.09\].keyboard-focused\:backdrop-blur-\[38\.571px\].dark\:hover\:bg-blue-100\/20.dark\:keyboard-focused\:bg-blue-100\/20
@@ -17,10 +18,10 @@ indianexpress.com##.ie-mobile-ad-carousel
 indianexpress.com##.share-article-btn
 
 m.youtube.com###bottom-sheet-header
-m.youtube.com##.chip-bar-contents
-m.youtube.com##.clickable-metadata
 m.youtube.com###contents > div:nth-of-type(1) > .ytwYouChatItemViewModelYouChatItemViewModel.ytwYouChatItemViewModelColumnLayout
 m.youtube.com###contents > div:nth-of-type(2) > .ytwYouChatItemViewModelYouChatItemViewModel.ytwYouChatItemViewModelColumnLayout > .ytwYouChatItemViewModelHost
+m.youtube.com##.chip-bar-contents
+m.youtube.com##.clickable-metadata
 m.youtube.com##.engagement-panel-section-list-header-button.close-button.icon-close
 m.youtube.com##.engagement-panel-section-list-title-and-context-wrapper
 m.youtube.com##.expandableMetadataRendererContainer.expandableMetadataRendererColorSampledContainer
@@ -41,6 +42,8 @@ m.youtube.com##.ytProfileIconHost.YtmCommentSimpleboxRendererIcon
 m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
 m.youtube.com##.ytShelfHeaderLayoutHost.ytShelfHeaderLayoutDisableHorizontalPadding
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextSizeL.ytSpecButtonShapeNextIconButton
+m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse
 m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSectionTitle
 m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSubHeaderText > .ytAttributedStringHost.ytAttributedStringWhiteSpacePreWrap
 m.youtube.com##.ytm-infocards-creator-custom-url-buttons
@@ -52,8 +55,6 @@ m.youtube.com##ytm-compact-link-renderer.YtmCompactLinkRendererHost.item:nth-of-
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(1)
 m.youtube.com##ytm-pivot-bar-item-renderer:nth-of-type(2)
 m.youtube.com##ytm-video-description-infocards-section-renderer
-m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextSizeL.ytSpecButtonShapeNextIconButton
-m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse
 
 mail.google.com##.ObxnS
 
@@ -73,42 +74,65 @@ music.apple.com##.svelte-bqqhxp.footer--full-width
 
 music.youtube.com##.app-install-link.app-bar-button.style-scope.ytmusic-nav-bar
 
+open.spotify.com###react-aria6692950477-\:r1cb\:
+open.spotify.com###react-aria7584004524-\:r1t\:
 open.spotify.com##.AYUEkKOEqksuTXmh
 open.spotify.com##.B3B0XuueQy4Swpyw
 open.spotify.com##.C8qLX8lOHwAx63FP.bKWw7XkMnYJ6al1a
+open.spotify.com##.Emh6sVCoQHM3KQ4_.WrEaGRqx9J44u32H
+open.spotify.com##.Hln1Dms3QOQ7pvLw
+open.spotify.com##.TevfkTnw3MGoxpI5.PrTyQSoWOM7EE0LI > .s1ft0kHOwOh71ov_.lCbuKQ_HfL4yze5_
 open.spotify.com##.WW4l63FCd4v_1bfp
+open.spotify.com##.XToncn4_mYHzhKy7.q8mQFn7r8UYsKdHE.C3zqtOMpn6kyeSzu
+open.spotify.com##.XToncn4_mYHzhKy7.q8mQFn7r8UYsKdHE.WVlD7lVMr86Z7z3F
+open.spotify.com##.button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued._EuXSrqTA94N1Evn:nth-of-type(2)
+open.spotify.com##button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued.xfsjC59pFlEJ3yNI:nth-of-type(2)
 open.spotify.com##.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued._EuXSrqTA94N1Evn.WWplj9LLqTE6whKO
 open.spotify.com##.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued.we0UJfWAf8vWXQku.tl_Te13p7oUOAd63.q8mQFn7r8UYsKdHE._H2ZzS_Atuwx6wh9.tMFkXbMSXNUegQIu.aIU4qABgiIgjAEyD.LUVEWqx9qW4kwbPr.C2vATbKl0MDEq09a.DSes_Z2f48QaZ1s0.eOI7g5Zd6esLuCCb.LJCjURMQBE6o9exj.EYdwwRebZIgjbKy_.j3SHhp1yEwUOoay8
 open.spotify.com##.e6jxYAtSk0iD8tAA.encore-inverted-dark-set
+open.spotify.com##.fNnrSm2k2IonbI9c.contentSpacing
 open.spotify.com##.footer
 open.spotify.com##.jHqD4CkJSTwpZihD
+open.spotify.com##.muznK3MRUjUec7Jo.QRSUcqO8y8LUmz0F.yiy_EezkGycfPvS3
+open.spotify.com##.sdEd4DOwfUAWrygb.q8mQFn7r8UYsKdHE._H2ZzS_Atuwx6wh9.EYdwwRebZIgjbKy_.aIU4qABgiIgjAEyD.DSes_Z2f48QaZ1s0.LJCjURMQBE6o9exj.GDaR7Hd1GoQnpxZu
+open.spotify.com##section.l3tPikCftuELMOzz.e4IK04uNVRsB6jbO.yTHNsGSMiG01kxo3:nth-of-type(3) > .va5STnBzPqkIqnaT
+open.spotify.com##section.l3tPikCftuELMOzz.e4IK04uNVRsB6jbO.yTHNsGSMiG01kxo3:nth-of-type(8) > .MyaStf5D5Im3gt9M.XtiGtrj_ysgd8Bmv.CsidsUzBet0_Mp5i > .dxlv5wfAu8zgm7HY.uvcTYGvrsVEujQSN._2WOtop0TLUrNXAd
+open.spotify.com##section.l3tPikCftuELMOzz.e4IK04uNVRsB6jbO.yTHNsGSMiG01kxo3:nth-of-type(8) > .va5STnBzPqkIqnaT > .e-10451-box.e-10451-box--naked.e-10451-box--padding-inline-start-custom.e-10451-box--padding-inline-end-custom.e-10451-box--padding-block-start-custom.e-10451-box--padding-block-end-custom.e-10451-box--min-size.e-10451-legacy-list-row.T9JaL14g0fwnpw83
 open.spotify.com##.uBpmNFia37U4nzmX.HV_r_uzYNE7ao30Y
 open.spotify.com##a.FByM6mgNkSMfGIqI.active:nth-of-type(3)
 open.spotify.com##a.FByM6mgNkSMfGIqI:nth-of-type(4)
-open.spotify.com##button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued._EuXSrqTA94N1Evn:nth-of-type(2)
-open.spotify.com##button.e-10451-legacy-button.e-10451-legacy-button-tertiary.e-10451-overflow-wrap-anywhere.e-10451-button-tertiary--icon-only-small.e-10451-button-tertiary--icon-only.e-10451-button-tertiary--text-subdued.encore-internal-color-text-subdued.xfsjC59pFlEJ3yNI:nth-of-type(2)
 
 pass.proton.me##.button.button-medium.button-outline-weak.button-pill.button-solid-norm.inline-block.text-center.max-w-full.flex.items-center.button-promotion.button-promotion--icon-gradient.flex-nowrap.shrink-0
 
 timesofindia.indiatimes.com###custom_ad_wrapper_0
 timesofindia.indiatimes.com##._zqap
+timesofindia.indiatimes.com##.as_socialsharimgmobile.mob-share-button
 timesofindia.indiatimes.com##.Mr86Q.JgF3m
 timesofindia.indiatimes.com##.dPpSq.phShimmerFBN.fixed_elements_on_page
+timesofindia.indiatimes.com##.wrapperclearfix > .jOoZ3.dark_capsul > div:nth-of-type(5) > .IV7Rd > .wnLN3
+timesofindia.indiatimes.com##.wrapperclearfix > .jOoZ3.dark_capsul > div:nth-of-type(5) > .IV7Rd > .ZxOCV > div:nth-of-type(1) > .WdC_e.slick_UI.smallArrow.smallArrowBlack
 timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-131439182\,width-150\,resizemode-4\/131439182\.jpg"]
 timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-131903473\,width-150\,resizemode-4\/131903473\.jpg"]
 timesofindia.indiatimes.com##[src*="https\:\/\/static\.toiimg\.com\/thumb\/msid-132109968\,width-150\,resizemode-4\/132109968\.jpg"]
+
+www.financialexpress.com###marketDataBtn
+www.financialexpress.com##.ad-bg-container
 
 www.forbes.com###connatix_player_0
 
 www.google.com###Q7Ulpb
 www.google.com###fbar
 www.google.com###qslc
+www.google.com##.C6AK7c.wbH0pd > .mXwfNd
+www.google.com##div.fJLuUb:nth-of-type(3)
 www.google.com##.ZvaH7
 www.google.com##.rK4Qmc
 
-www.hindustantimes.com##.ProgressBar_progress_container__7ym1x
 www.hindustantimes.com##.bottomMenu
 www.hindustantimes.com##.inArticleAdCarouselWrapper
+www.hindustantimes.com##.jsx-c408190476e82587.nextItemsWrap.on > .jsx-c408190476e82587.nextStoryItem
+www.hindustantimes.com##.jsx-c408190476e82587.nextItemsWrap.on > .jsx-c408190476e82587.prevStoryItem
+www.hindustantimes.com##.ProgressBar_progress_container__7ym1x
 
 www.independent.co.uk##.sc-1styece-1.kgUdxt
 www.independent.co.uk##.sc-jdeof9-2.sc-jdeof9-4.sc-x21piv-1.sc-1ttpog8-1.grQWXt.hnktLg.kJHBHS.gNTQsn.sc-b3b1q1-0.sc-b3b1q1-1.bvDnsE
@@ -121,11 +145,19 @@ www.livemint.com##.carouselAdWrapper
 www.livemint.com##.taboola
 www.livemint.com##.taboola-readmore
 
+www.ndtv.com##.ad-art_rw
 www.ndtv.com##.ArtFtVid_wr
+www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(4)
 www.ndtv.com##.RdInAp_cls-wr
 www.ndtv.com##.RdInAp_cn
-www.ndtv.com##.ad-art_rw
-www.ndtv.com##div.ad-art_full2.ad-art_wap.nonKeyEvent:nth-of-type(4)
+
+www.telegraphindia.com##.stkybtmadbox.m_bottom_sticky_mobile_ad_wrap
+www.telegraphindia.com##[src*="\/revamp-assets\/desktop\/images\/mplaceholderimg\.jpg"]
+
+www.thehindubusinessline.com###tag-related
+www.thehindubusinessline.com##.mobile-inarticle-ad
+www.thehindubusinessline.com##.mobile-top-ad
+www.thehindubusinessline.com##.navigations-icon
 
 www.youtube.com###content-wrapper
 www.youtube.com##div.style-scope.ytd-rich-section-renderer
