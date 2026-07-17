@@ -60,6 +60,8 @@ www.ndtv.com##.RdInAp_cn
 www.ndtv.com##.RdInAp_cls-wr
 www.ndtv.com##.ArtFtVid_wr
 
+m.youtube.com##.ytSpecTouchFeedbackShapeTouchResponse
+m.youtube.com##.ytSpecButtonShapeNextIconButton
 m.youtube.com##.chip-bar-contents
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeFill
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs.ytSpecButtonShapeNextEnableBackdropFilterExperiment > .ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeTouchResponse > .ytSpecTouchFeedbackShapeStroke
