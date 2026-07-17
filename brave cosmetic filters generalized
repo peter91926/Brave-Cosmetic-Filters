@@ -19,6 +19,7 @@ indianexpress.com##.share-article-btn
 m.youtube.com###bottom-sheet-header
 m.youtube.com##.chip-bar-contents
 m.youtube.com##.clickable-metadata
+m.youtube.com##.engagement-panel-section-list-header-button.close-button.icon-close
 m.youtube.com##.engagement-panel-section-list-title-and-context-wrapper
 m.youtube.com##.expandableMetadataRendererContainer.expandableMetadataRendererColorSampledContainer
 m.youtube.com##.expandableMetadataRendererContainerExpanded.expandableMetadataRendererColorSampledContainer
