@@ -18,7 +18,8 @@ indianexpress.com##.share-article-btn
 
 m.youtube.com###bottom-sheet-header
 m.youtube.com##.chip-bar-contents
-m.youtube.com##.clickable-metadata
+m.youtube.com###contents > div:nth-of-type(1) > .ytwYouChatItemViewModelYouChatItemViewModel.ytwYouChatItemViewModelColumnLayout
+m.youtube.com###contents > div:nth-of-type(2) > .ytwYouChatItemViewModelYouChatItemViewModel.ytwYouChatItemViewModelColumnLayout > .ytwYouChatItemViewModelHost
 m.youtube.com##.engagement-panel-section-list-header-button.close-button.icon-close
 m.youtube.com##.engagement-panel-section-list-title-and-context-wrapper
 m.youtube.com##.expandableMetadataRendererContainer.expandableMetadataRendererColorSampledContainer
@@ -38,6 +39,7 @@ m.youtube.com##.ytListItemViewModelLayoutWrapper.ytListItemViewModelContainer.yt
 m.youtube.com##.ytProfileIconHost.YtmCommentSimpleboxRendererIcon
 m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
 m.youtube.com##.ytShelfHeaderLayoutHost.ytShelfHeaderLayoutDisableHorizontalPadding
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs
 m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSectionTitle
 m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSubHeaderText > .ytAttributedStringHost.ytAttributedStringWhiteSpacePreWrap
 m.youtube.com##.ytm-infocards-creator-custom-url-buttons
