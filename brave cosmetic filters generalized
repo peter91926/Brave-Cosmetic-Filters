@@ -29,6 +29,7 @@ m.youtube.com##.expandableMetadataRendererContainerExpanded.expandableMetadataRe
 m.youtube.com##.factoids
 m.youtube.com##.horizontal-card-list-cards
 m.youtube.com##.horizontal-card-list-header.horizontal-card-list-header-bold
+m.youtube.com##.mobile-topbar-header-content.non-search-mode > .ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeL.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextEnableBackdropFilterExperiment
 m.youtube.com##.mobile-topbar-header-endpoint
 m.youtube.com##.pivot-bar-item-tab.pivot-w2w
 m.youtube.com##.ytAttributedStringHost.chatInputViewModelChatDisclaimer.chatInputViewModelChatDisclaimerAboveInput.ytAttributedStringWhiteSpacePreWrap
@@ -42,6 +43,7 @@ m.youtube.com##.ytProfileIconHost.YtmCommentSimpleboxRendererIcon
 m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
 m.youtube.com##.ytShelfHeaderLayoutHost.ytShelfHeaderLayoutDisableHorizontalPadding
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextOutline.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeXs
+m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextMono.ytSpecButtonShapeNextSizeS.ytSpecButtonShapeNextIconButton.ytSpecButtonShapeNextOverrideSmallSizeIcon.ytSpecButtonShapeNextEnableBackdropFilterExperiment
 m.youtube.com##.ytSpecButtonShapeNextHost.ytSpecButtonShapeNextText.ytSpecButtonShapeNextOverlay.ytSpecButtonShapeNextSizeL.ytSpecButtonShapeNextIconButton
 m.youtube.com##.ytSpecTouchFeedbackShapeHost.ytSpecTouchFeedbackShapeOverlayTouchResponse
 m.youtube.com##.ytVideoDescriptionYouchatSectionViewModelSectionTitle
